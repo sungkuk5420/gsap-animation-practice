@@ -2,10 +2,11 @@
   "name": "parcel-start-kit",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel src/index.html"
+    "start": "parcel serve src/index.html",
+    "build": "parcel build src/index.html"
   },
   "repository": {
     "type": "git",
