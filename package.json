@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/sungkuk5420/parcel-start-kit.git"
   },
+  "alias": {
+    "jsx": "./js"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -19,5 +22,8 @@
   "homepage": "https://github.com/sungkuk5420/parcel-start-kit#readme",
   "devDependencies": {
     "parcel": "^2.0.0-nightly.524"
+  },
+  "dependencies": {
+    "hover-effect": "^1.1.0"
   }
 }
