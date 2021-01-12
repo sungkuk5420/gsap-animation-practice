@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/sungkuk5420/parcel-start-kit#readme",
   "devDependencies": {
-    "parcel": "^2.0.0-beta.1"
+    "parcel": "^2.0.0-nightly.524"
   }
 }
