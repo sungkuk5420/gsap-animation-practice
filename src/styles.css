@@ -16,8 +16,6 @@ ul {
   list-style: none;
 }
 
-/* NAVBAR
-  =========================== */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -40,8 +38,6 @@ ul {
   text-transform: uppercase;
 }
 
-/* SOCIAL MEDIA
-  =========================== */
 .media ul {
   position: absolute;
   bottom: 250px;
@@ -57,8 +53,6 @@ ul {
   padding: 0 30px;
 }
 
-/* TEXT
-  =========================== */
 .text {
   position: absolute;
   top: 200px;
@@ -122,8 +116,6 @@ ul {
   position: absolute;
 }
 
-/* SPONSOR
-  =========================== */
 .sponsor {
   position: absolute;
   right: 100px;
@@ -144,8 +136,6 @@ ul {
   transform: rotate(180deg);
 }
 
-/* DISTORTION
-  =========================== */
 .distortion {
   width: 580px;
   height: 720px;
@@ -154,12 +144,24 @@ ul {
   bottom: 0;
 }
 
-/* OVERLAY
-  =========================== */
 .overlay {
   position: absolute;
   width: 100%;
   height: 100%;
   top: 0%;
   z-index: 99;
+}
+
+.first {
+  background: #efde74;
+}
+
+.second {
+  background: #efde74;
+  left: 33.3%;
+}
+
+.third {
+  background: #efde74;
+  left: 66.6%;
 }
