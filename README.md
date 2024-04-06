@@ -1,7 +1,28 @@
 # gsap-animation-practice
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+gsap-animation
+gsap-animationです
 
-## Recommended IDE Setup
+## Demo / 데모 / デモサイト
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+[Link Open](https://gsap-animation-kim.netlify.app/)
+
+## Getting Started / 어떻게 시작하나요? / 始め方
+
+### Installing / 설치 / インストール
+
+```
+npm install
+```
+
+### Run / 실행 / 実行
+
+```
+npm run dev
+```
+
+## License / 라이센스 /ライセンス
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/PurpleBooth/LICENSE.md) file for details
+이 프로젝트는 MIT 라이센스로 라이센스가 부여되어 있습니다. 자세한 내용은 LICENSE.md 파일을 참고하세요.
+
